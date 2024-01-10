@@ -84,8 +84,8 @@ git clone [https://github.com/your-username/your-repo.git](https://github.com/Vi
 Open the project in Xcode.
 bash
 Copy code
-cd MyApp
-open MyApp.xcodeproj
+cd UserList
+open UserList.xcodeproj
 Build and run the project in the Xcode simulator or on a physical device.
 Usage
 Upon launching the app, you will see a list of users.
